@@ -1,10 +1,10 @@
 # Hi, I'm Adijat 👋
 
-**Edge AI / Embedded ML Engineer** based in Bochum, Germany.
+**Edge AI / Embedded ML Engineer** based in Germany.
 
-I work at the intersection of machine learning and embedded systems — developing and deploying intelligent vision systems on resource-constrained hardware. Currently completing my Master's in Embedded Systems Engineering at Fachhochschule Dortmund.
+I work at the intersection of machine learning and embedded systems. Developing and deploying intelligent vision systems on resource-constrained hardware. Currently completing my Master's in Embedded Systems Engineering at Fachhochschule Dortmund.
 
----
+
 
 ## 🛠 What I work with
 
@@ -12,7 +12,7 @@ I work at the intersection of machine learning and embedded systems — developi
 **Embedded & Real-Time:** C · C++ · FreeRTOS · VHDL · Arduino · UPPAAL · APP4MC  
 **Tools:** Docker · Git · CARLA Simulator · Weights & Biases · TensorBoard · CuPy  
 
----
+
 
 ## 🚀 Featured Projects
 
