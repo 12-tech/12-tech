@@ -26,9 +26,9 @@ I work at the intersection of machine learning and embedded systems. Developing 
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adijat01/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adijat01/)
 [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:adijatsulaimon01@gmail.com)
 
 ---
 
-*Open to thesis positions and graduate roles in Edge AI, autonomous systems, and intelligent embedded systems across Germany.*
+*Open to thesis positions and roles in Edge AI, autonomous systems, and intelligent embedded systems across Germany.*
