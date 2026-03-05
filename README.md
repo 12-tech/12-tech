@@ -26,7 +26,7 @@ I work at the intersection of machine learning and embedded systems. Developing 
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adijat-sulaimon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adijat01/))
 [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:adijatsulaimon01@gmail.com)
 
 ---
